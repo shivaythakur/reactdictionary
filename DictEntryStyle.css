@@ -1,0 +1,15 @@
+.entry{
+  font-size: 16px;
+}
+.registers{
+  color :#27a058;
+  font-style: italic;
+  margin-right: 4px; 
+}
+.exg {
+  margin: 4px 0 7px;
+  font-style: italic;
+}
+.def{
+  font-weight: 600;
+}
